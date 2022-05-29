@@ -1,3 +1,35 @@
+.custom-button {
+  background-color: #1b3146;
+  width: 100%;
+  font-size: 15px;
+  border-radius: 3px;
+}
+
+.custom-button:hover {
+  background-color: #8e979f;
+  color: #1b3146;
+}
+
+.advanced-search {
+  padding-top:5%;
+  padding-bottom:5%;
+  text-align:center;
+}
+
+.advanced-search-text {
+  color:#acd8ff!important;
+}
+
+.reset-table-text {
+  font-size:13px;
+  color:black;
+}
+
+.advanced-search-text:hover {
+  color: #ffffff!important;
+  text-decoration:underline!important;
+}
+
 * {
   box-sizing: border-box;
   font-family: Ubuntu, sans-serif;
